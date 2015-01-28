@@ -1,2 +1,1 @@
-# foo
-Test module
+Hello World!
